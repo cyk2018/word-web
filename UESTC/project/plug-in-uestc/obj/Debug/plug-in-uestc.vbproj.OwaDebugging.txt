@@ -1,0 +1,7 @@
+False
+e1045abc-2f1e-461d-923a-d9b34f092d93b85bc65f-099e-4f48-97fb-7bde1d44c876
+{9be59c14-9d3a-41b1-88e5-b80d94f5d9fb}{8f0f09e1-c67b-48d2-9006-d5f74107645e}
+{cf59e48d-cbfc-40cf-917a-bc60aa6209fc}
+1.0.0.0
+plug-in-uestc
+_layouts/15/

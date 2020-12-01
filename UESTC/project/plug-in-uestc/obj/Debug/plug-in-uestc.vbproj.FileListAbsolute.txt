@@ -1,0 +1,2 @@
+C:\Users\chen\plug-in\UESTC\project\plug-in-uestc\obj\Debug\plug-in-uestc.vbprojAssemblyReference.cache
+C:\Users\chen\plug-in\UESTC\project\plug-in-uestc\obj\Debug\plug-in-uestc.vbproj.CoreCompileInputs.cache

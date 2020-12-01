@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\plug-in-uestcManifest.xml
+C:\Users\chen\plug-in\UESTC\project\plug-in-uestc\bin\Debug\plug-in-uestc.debugapp
