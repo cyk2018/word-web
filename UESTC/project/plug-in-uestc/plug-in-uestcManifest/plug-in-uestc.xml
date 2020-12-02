@@ -14,11 +14,11 @@
 
   <!--版本。来自应用商店的更新只有在版本变化时才会被触发。 -->
   <Version>1.0.0.0</Version>
-  <ProviderName>[提供程序名称]</ProviderName>
+  <ProviderName>[论文排版插件]</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
   <!-- 外接程序的显示名称。在应用商店中使用，出现在外接程序对话框等 Office UI 中。 -->
-  <DisplayName DefaultValue="plug-in-uestc" />
-  <Description DefaultValue="plug-in-uestc"/>
+  <DisplayName DefaultValue="paper-plug" />
+  <Description DefaultValue="a plug you can use to format your paper"/>
   <!-- 外接程序的图标。用于安装屏幕和外接程序对话框中。 -->
   <IconUrl DefaultValue="~remoteAppUrl/Images/logo32x32.png" />
 
@@ -36,7 +36,7 @@
     <Host Name="Document" />
   </Hosts>
   <DefaultSettings>
-    <SourceLocation DefaultValue="~remoteAppUrl/Home.html" />
+    <SourceLocation DefaultValue="~remoteAppUrl/Scripts/page/start.html" />
   </DefaultSettings>
   <!-- 结束任务窗格模式集成。  -->
 
@@ -126,7 +126,7 @@
       </bt:Urls>
       <!-- ShortStrings 最大字符数==125。 -->
       <bt:ShortStrings>
-        <bt:String id="Contoso.TaskpaneButton.Label" DefaultValue="Show Taskpane" />
+        <bt:String id="Contoso.TaskpaneButton.Label" DefaultValue="paper-plug" />
         <bt:String id="Contoso.Group1Label" DefaultValue="Commands Group" />
         <bt:String id="Contoso.GetStarted.Title" DefaultValue="Get started with your sample add-in!" />
       </bt:ShortStrings>

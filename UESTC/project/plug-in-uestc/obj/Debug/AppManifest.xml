@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <App xmlns="http://schemas.microsoft.com/sharepoint/2012/app/manifest"
      Name="plug-in-uestc"
-     ProductID="{8b8e36a1-27ab-4b83-a8ca-455049a6b95e}"
+     ProductID="{27f2ecd8-9d32-4b4d-96c0-5d236ee2820e}"
      Version="1.0.0.0"
      SharePointMinVersion="15.0.0.0"
 >
