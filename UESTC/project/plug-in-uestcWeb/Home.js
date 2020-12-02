@@ -34,7 +34,7 @@
     };
 
     function createWord() {
-
+        //从远程请求对应的文件，远程的话涉及到架站问题
     }
 
     function loadSampleData() {
